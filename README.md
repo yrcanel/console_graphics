@@ -9,4 +9,4 @@ What it does is basicly rendering some 2d shapes in terminal, shapes can be move
 - Set in ur terminal preferences witdh 130 symbols and height 50 symbols.
 - Run via *java -jar graphics.jar*
 *By default this runs an example animation.*
-!![Screenshot of the example animation](/assets/img.png)
+![Screenshot of the example animation](/assets/img.png)
