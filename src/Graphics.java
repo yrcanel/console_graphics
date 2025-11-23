@@ -1,9 +1,9 @@
 public class Graphics {
-    private int width;
-    private int height;
-    private float aspect;
-    private float pixelAspect;
-    private float multiplier;
+    private final int width;
+    private final int height;
+    private final float aspect;
+    private final float pixelAspect;
+    private final float multiplier;
     private char[] buffer;
 
 
@@ -51,4 +51,5 @@ public class Graphics {
     public void Finish(){
         System.out.println(buffer);
     }
+
 }
